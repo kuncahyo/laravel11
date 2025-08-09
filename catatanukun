@@ -1,0 +1,4 @@
+1.ubah pemanggilan template telwind/panggil telwindplus. template= "Stacked Layouts"
+-aslinya --> <script src="https://cdn.jsdelivr.net/npm/@tailwindplus/elements@1" type="module"></script> -->JALAN = npm run dev
+-ganti karena lambat -->TERMINAL = npm install @tailwindplus/elements-->FILE resources/js/app.js = import '@tailwindplus/elements'; --> PANGGIL PAKAI = @vite('resources/js/app.js')-->JALAN = npm run dev
+//tailwind tidak sama dngn tutorial. pakai yang lambat untuk belajar, *belum paham alpine.js
